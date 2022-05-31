@@ -5,19 +5,23 @@ $ cp .env.example .env
 
 ```shell
 $ composer install
+````
 
 ```shell
 $ php artisan key:generate
+```
 
 ```shell
 $ php artisan migrate
+```
 
 ```shell
 $ php artisan db:seed
+```
 
 ```shell
 $ npm install & run dev
-````
+```
 
 ```shell
 $ php artisan serv
