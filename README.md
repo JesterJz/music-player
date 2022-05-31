@@ -1,11 +1,18 @@
-$ cd Laravel-9-React-Music-App
+```shell
+$ git clone https://github.com/JesterJz/music-player.git
+```
 
-````shell
+```shell
+$ cd Laravel-9-React-Music-App
+```
+
+```shell
 $ cp .env.example .env
+```
 
 ```shell
 $ composer install
-````
+```
 
 ```shell
 $ php artisan key:generate
