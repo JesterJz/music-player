@@ -3,7 +3,7 @@ $ git clone https://github.com/JesterJz/music-player.git
 ```
 
 ```shell
-$ cd Laravel-9-React-Music-App
+$ cd music-player
 ```
 
 ```shell
